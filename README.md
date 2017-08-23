@@ -1,10 +1,10 @@
-# electron-quick-start
+# A dive into Electron
 
-**Clone and run for a quick way to see Electron in action.**
+Another technology that hugely caught my eye in late 2016, Electron.
 
-This is a minimal Electron application based on the [Quick Start Guide](http://electron.atom.io/docs/latest/tutorial/quick-start) within the Electron documentation.
+_I needed Electron back in 2009 when I was learning Visual Basic!_ 
 
-**Use this app along with the [Electron API Demos](http://electron.atom.io/#get-started) app for API code examples to help you get started.**
+In a nutshell, Electron is a nicely packaged up HTML/CSS/JS project. Just like any website/webapp, Electron will run web technologies **on your desktop** using NodeJS and Chrome's Chromium V8 engine.
 
 A basic Electron application needs just these files:
 
