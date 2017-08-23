@@ -6,6 +6,10 @@ _I needed Electron back in 2009 when I was learning Visual Basic!_
 
 In a nutshell, Electron is a nicely packaged up HTML/CSS/JS project. Just like any website/webapp, Electron will run web technologies **on your desktop** using NodeJS and Chrome's Chromium V8 engine.
 
+I wanted to build a little home/base/homebase for my team at the Alacrity Foundation. An app they could constantly keep running in the background, and eventually would pull in a plethora of infomation. Latest Slack messages, pull request alerts/notifications, new emails from potential clients.. I mean the possibilities are endless. These can all be polled and managed with (lots of) Javascript but it was something I was willing to do. Unfortunately, our project at the time was going through some rough stages, and other priorities arose. 
+
+== Official Electron Docs ==
+
 A basic Electron application needs just these files:
 
 - `package.json` - Points to the app's main file and lists its details and dependencies.
